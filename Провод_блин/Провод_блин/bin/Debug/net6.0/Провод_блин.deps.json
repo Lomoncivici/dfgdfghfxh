@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Провод_блин/1.0.0": {
+        "runtime": {
+          "Провод_блин.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Провод_блин/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

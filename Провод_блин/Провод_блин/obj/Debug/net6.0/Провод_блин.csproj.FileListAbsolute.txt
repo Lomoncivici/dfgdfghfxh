@@ -1,0 +1,14 @@
+C:\Users\SystemX\source\repos\Провод_блин\Провод_блин\bin\Debug\net6.0\Провод_блин.exe
+C:\Users\SystemX\source\repos\Провод_блин\Провод_блин\bin\Debug\net6.0\Провод_блин.deps.json
+C:\Users\SystemX\source\repos\Провод_блин\Провод_блин\bin\Debug\net6.0\Провод_блин.runtimeconfig.json
+C:\Users\SystemX\source\repos\Провод_блин\Провод_блин\bin\Debug\net6.0\Провод_блин.dll
+C:\Users\SystemX\source\repos\Провод_блин\Провод_блин\bin\Debug\net6.0\Провод_блин.pdb
+C:\Users\SystemX\source\repos\Провод_блин\Провод_блин\obj\Debug\net6.0\Провод_блин.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SystemX\source\repos\Провод_блин\Провод_блин\obj\Debug\net6.0\Провод_блин.AssemblyInfoInputs.cache
+C:\Users\SystemX\source\repos\Провод_блин\Провод_блин\obj\Debug\net6.0\Провод_блин.AssemblyInfo.cs
+C:\Users\SystemX\source\repos\Провод_блин\Провод_блин\obj\Debug\net6.0\Провод_блин.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\source\repos\Провод_блин\Провод_блин\obj\Debug\net6.0\Провод_блин.dll
+C:\Users\SystemX\source\repos\Провод_блин\Провод_блин\obj\Debug\net6.0\refint\Провод_блин.dll
+C:\Users\SystemX\source\repos\Провод_блин\Провод_блин\obj\Debug\net6.0\Провод_блин.pdb
+C:\Users\SystemX\source\repos\Провод_блин\Провод_блин\obj\Debug\net6.0\Провод_блин.genruntimeconfig.cache
+C:\Users\SystemX\source\repos\Провод_блин\Провод_блин\obj\Debug\net6.0\ref\Провод_блин.dll
