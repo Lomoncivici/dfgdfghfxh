@@ -12,8 +12,16 @@
             {
                 /*C: \Users\SystemX\Desktop*/
                 XAX.Faf();
-                Edit.TXT();
-                XAX.FaF();
+                Console.WriteLine("нажмите t для редоктирования");
+                ConsoleKeyInfo key = Console.ReadKey(true);
+                if (key.Key == ConsoleKey.Escape)
+                {
+                    Edit.TXT();
+                }
+                else if (key.Key != ConsoleKey.T)
+                {
+                    XAX.FaF();
+                }
             }
         }
     }
